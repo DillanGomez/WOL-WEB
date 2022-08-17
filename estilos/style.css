@@ -370,3 +370,18 @@ footer {
     border-radius: 90rem;
   }
 }
+
+/*CONTACTO*/
+
+form {
+  padding: 15%;
+}
+
+label {
+  margin: 3rem;
+}
+
+.imgjugadores {
+  max-width: 25rem;
+  max-height: 25rem;
+}
